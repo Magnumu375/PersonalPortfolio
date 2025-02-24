@@ -1,0 +1,33 @@
+body {
+    background-color: darkslategray;
+    color: white;
+}
+
+/* The Hero section*/
+
+.hero {
+    background-image: url("https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0");
+    background-size: cover;
+    background-position: center;
+    height: 40vh;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+
+#text {
+    border-right: 8px solid white;
+    height: px;
+    overflow: hidden;
+    white-space: nowrap;
+    margin: 0 auto;
+    letter-spacing: px;
+}
+
+p {
+    font-size: 1.5em;
+    font-weight: 300;
+    margin: 0;
+}
